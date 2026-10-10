@@ -5,10 +5,6 @@
 
 My solutions to the problem sets from Harvard's CS50P course, organized by week.
 
-## About
-
-# I’m learning Python through Harvard’s CS50P course. This repository tracks my progress week by week.
-
 ## Weeks
 
 - Week 0 - Functions
